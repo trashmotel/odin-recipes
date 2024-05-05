@@ -9,6 +9,10 @@
     margin: -8px;
     padding: 21px;
 }
+.menu {
+    text-align:center;
+    
+}
 .bad {
     font-family: "Comic Sans MS", Papyrus, sans-serif;
     font-weight: bold;
