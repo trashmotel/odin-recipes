@@ -5,13 +5,16 @@
 }
 #title {
     text-align: center;
+    text-decoration: underline;
     background-color: #FFC2C4;
     margin: -8px;
     padding: 21px;
 }
-.menu {
-    text-align:center;
+.menu a {
+    display: block;
+    text-align: center;
     
+
 }
 .bad {
     font-family: "Comic Sans MS", Papyrus, sans-serif;
