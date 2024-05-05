@@ -3,7 +3,8 @@
     font-family: Georgia, Garamond, serif;
     color: #3b1f03;
 }
-.title {
+#title {
+    text-align: center;
     
 }
 .bad {
