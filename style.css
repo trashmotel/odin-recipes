@@ -5,16 +5,24 @@
 }
 #title {
     text-align: center;
-    text-decoration: underline;
-    background-color: #FFC2C4;
+    background-color: #C2C4FF;
     margin: -8px;
     padding: 21px;
 }
-.menu a {
+.emphasis {
+    color: #1E3C1D ;
+}
+.menu {
     display: block;
     text-align: center;
-    
-
+    background-color: #C2E3FF;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-inline: -8px;
+    padding-left: 0px;
+}
+.menu li {
+    padding: 25px;
 }
 .bad {
     font-family: "Comic Sans MS", Papyrus, sans-serif;
