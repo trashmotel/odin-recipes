@@ -6,6 +6,8 @@
 #title {
     text-align: center;
     background-color: #FFC2C4;
+    margin: -8px;
+    padding: 21px;
 }
 .bad {
     font-family: "Comic Sans MS", Papyrus, sans-serif;
